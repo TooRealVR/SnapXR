@@ -1,0 +1,17 @@
+{
+    "name": "SnapXR.Editor",
+    "references": [
+        "GUID:dd4498795483ecd4dad0b0f3add8f5c1"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
